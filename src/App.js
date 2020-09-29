@@ -5,6 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Hello Code</h1>
+      <h2>h2 content</h2>
       <div className="a">
         <div className="b">bbdbbb</div>
       </div>
